@@ -1,4 +1,4 @@
-# STOPWATCH 
+# STOPWATCH [visit my site] (https://timerdevice.netlify.app/)
 This project is a simple stopwatch web application built using HTML, CSS, and JavaScript. It features a responsive design, allowing it to adapt to different screen sizes. The main components of the project include:
 
 + HTML Structure: The HTML file defines the basic structure of the web page, including a container div that holds the stopwatch display and control buttons.
